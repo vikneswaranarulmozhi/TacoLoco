@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Vikneswaran
+Build-Jdk: 14.0.2
+Implementation-Title: bootapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.amol.springboot.demo
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/bootapp
+Created-By: Maven Integration for Eclipse
+
